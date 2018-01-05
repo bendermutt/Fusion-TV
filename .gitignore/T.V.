@@ -1,0 +1,452 @@
+							<!-- Tv local-->
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Mega</title>
+   <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>	
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Canal de las Estrellas SD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8</link>
+   <thumbnail>https://www.debate.com.mx/export/sites/debate/img/2016/08/22/2000px-canal_de_las_estrellas_logo.svg.png_1647311013.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Foro TV</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(FORO_TV)/index.m3u8</link>
+   <thumbnail>http://logos-vector.com/images/logo/xxl/1/7/3/173019/Foro_TV_97fbd_450x450.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Canal 5 HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Gala TV</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- EL trece</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA13)/index.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Logo_Azteca_13_HD_2011.svg/1000px-Logo_Azteca_13_HD_2011.svg.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Azteca 7</title>
+  <link>http://live.izzitv.mx/Content/HLS/Live/Channel(AZTECA7)/index.m3u8</link>	 
+   <thumbnail>https://destel.mx/wp-content/uploads/2016/04/418.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Milenio</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8</link>
+   <thumbnail>http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/120.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- CNN Español</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_ESP)/index.m3u8</link>
+   <thumbnail>https://kpbs.media.clients.ellingtoncms.com/img/news/tease/2012/12/04/espanol.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- CNN Internacional</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_INT_HD)/index.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Al-Yazira</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(AL_JAZEERA)/index.m3u8</link>	
+   <thumbnail>http://forounivers.com/uploads/monthly_2016_12/large.5841102b6546c_AlJazeera.png.d9166feb9aeb1678b49300a93c63e3e0.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Unicable</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8</link>	
+   <thumbnail>http://convergenciadenegocios.com/conneg/wp-content/uploads/2016/12/UNICABLE-2.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TLNovelas</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8</link>
+   <thumbnail>https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/tlnovelas_c.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<!-- Entretenimiento-->
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Distrito Comedia</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- AXN</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8</link>	
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Space HD</title>
+   <thumbnail>http://cotecal.com.ar/wp-content/uploads/2016/06/space_hd.png</thumbnail>
+   <fanart></fanart>
+<link>http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8</link>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Warner Channel</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8</link>
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/500px-Warner_Channel.svg.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Sony</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8</link>
+   <thumbnail>https://comparateca.com/images/companies/Sony.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TBS</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8</link>	
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TNT Series</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8</link>
+   <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Lifetime</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8</link>
+   <thumbnail>http://www.lifetimetv.co.uk/sites/default/files/logo_0.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Comedia Central</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(Comedy_Central)/index.m3u8</link>
+   <thumbnail>http://www.theblacklistnyc.com/imgs/ccnola_logo.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- E!</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8</link>
+   <thumbnail>https://www.foxtel.com.au/content/dam/foxtel/shared/channel/ETV/e-lightbg.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- El Gourmet</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8</link>
+   <thumbnail>http://i.imgur.com/8zwTAtt.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Hola TV</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8</link>
+   <thumbnail>http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/228.png</thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- A&amp;E</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8</link>	
+   <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/A%26E_Network_%28Australia%29_logo.svg/1200px-A%26E_Network_%28Australia%29_logo.svg.png</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TruTV</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- ISAT</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Fusion</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(FUSION)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- A 3 Series</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+					<!-- Musica-->
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Telehit</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Bandamax</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Ritmoson Latino</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- MTV</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- MTV Live</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- VH1</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+                  <!-- Infantiles-->
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Cartoon Network</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Nick HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Nick JR</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Nick 2</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Tiin</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Boomerang</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(BOOMERANG)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+             <!-- Dpcumentales-->
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Nat-Geo</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Nat-Geo Wild</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- History</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- History 2</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(H2)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+                      <!--Deportes-->
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TDN</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- UTDN</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- ESPN HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- ESPN 2 HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- ESPN 3</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Formula 1 Latinoamerica</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+                    <!-- cine -->
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- NBA</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- De Pelicula</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TNT HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Golden HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- AMC HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8</link>	
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- TCM</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Cinemax HD</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Paramount Channel</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+<item>
+   <title>[COLOR lime]•[/COLOR][COLOR yellow] [B]Fusion.Org[/B][/COLOR]- Sundance Channel</title>
+   <link>http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>	
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
