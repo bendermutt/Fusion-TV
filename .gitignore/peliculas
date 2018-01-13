@@ -18,6 +18,33 @@
 	<urlsolve>https://drive.google.com/open?id=0B5pzqRvfCeGodGlnN3E1OUhvUVU</urlsolve>	
 </item>
 
-
+<!--Diskokosmiko-->
+<item> 
+<title>A Dangerous Arrangement Op1</title>
+   <thumbnail>https://image.tmdb.org/t/p/w500/sfgrloFKGWZH7isiqNsWuybdth3.jpg</thumbnail>
+    <fanart>https://image.tmdb.org/t/p/original/x1638DtUHnVLrEVlIqjaaTLNjaX.jpg</fanart>
+    <genre>Suspense</genre>
+<link>$doregex[url]|user-agent=Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1</link>
+<regex>
+<name>url</name>
+<expres>Url":"(.*?)"</expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=$doregex[id]</page>
+<referer>http://diskokosmiko.mx/</referer>
+<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>fileId=(.*?)"</expres>
+<page>http://diskokosmiko.mx/m1980/26-36001/a-dangerous-arrangement-2015-720p-web-dl-dd5-1-h264-rarbg-1,369295,list,1,1.mkv</page>
+<referer>http://diskokosmiko.mx/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>Token.*?value="(.*?)"</expres>
+<page>http://diskokosmiko.mx/m1980/26-36001/a-dangerous-arrangement-2015-720p-web-dl-dd5-1-h264-rarbg-1,369295,list,1,1.mkv</page>
+<referer>http://diskokosmiko.mx/</referer>
+</regex>
+</item>
 
 
