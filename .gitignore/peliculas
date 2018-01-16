@@ -1,14 +1,13 @@
 <!--Lego Ninjago-->
-<item>
+<dir>
 <title>[COLOR white]Lego Ninjago [/COLOR][B](Lat)[/B][ By [COLOR red]Infinity[/COLOR][COLOR white]TV[/COLOR]  ]</title>
 <thumbnail>http://corfuwall.gr/media/k2/items/cache/e379696fefaafc857c018bc4001c5415_L.jpg</thumbnail>
 <fanart>https://i2.wp.com/geekdad.com/wp-content/uploads/2017/09/LNJ-Banner.jpg?resize=820%2C456&ssl=1</fanart>
 <info></info>
-<link>http://ignoreme</link>
 <genre>Infantil</genre>
 <year>2017</year>
-<externallink>https://dl.dropbox.com/s/gyuwgx97ha6juvt/Lego%20Ninjago.xml?dl=0</externallink>
-</item>
+<link>https://dl.dropbox.com/s/gyuwgx97ha6juvt/Lego%20Ninjago.xml?dl=0</link>
+</dir>
 
 <!--Lego Ninjago-->
 <item>
