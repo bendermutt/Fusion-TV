@@ -9,6 +9,14 @@
 <link>https://dl.dropbox.com/s/gyuwgx97ha6juvt/Lego%20Ninjago.xml?dl=0</link>
 </dir>
 
+<plugin>
+   <title>fear-twd</title>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+   	<genre>]</genre>
+<link>plugin://plugin.video.diskokosmiko/?action=play&amp;url=http://diskokosmiko.mx/seri5/fear-twd1-29223/101,250020,list,1,1.mkv</link>
+</plugin>
+
 <!--Lego Ninjago-->
 <item>
 <title>[COLOR white]Lego Ninjago [/COLOR][B](Lat)[/B][ By [COLOR red]Infinity[/COLOR][COLOR white]TV[/COLOR]  ]</title>
