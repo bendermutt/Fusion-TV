@@ -1,21 +1,19 @@
 
-Name:"Flash " elink:"https://www.dropbox.com/s/3ov3xkrovworb77/latino.xml?dl=1" thumnail:"https://i.imgur.com/EF3hzSz.png"; server:"https://github.com"
 
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzQ0FCNmVhQzdTZkE" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzZk50MVpUdzVjT28" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzRXExeENqQnU3ZDQ" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzWExqdThQX0YwaEU" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzbGJSSkNISS1DRzA" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzaTF6bGdDY1k4VUk" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzenZHQkstcmxyUHc" thumnail:""; server:""
-Name:"13 Reasons why " elink:"https://drive.google.com/file/d/0B01n7A5fJPYzNWRUQXNnbnZWclk" thumnail:""; server:""
-
-
-
-
-
-
-
-
+<item>
+<title>"[B]Fusion Org Request[\B]"</title>
+<thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
+<link>$doregex[text]</link>
+<regex>
+<name>text</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui
+    dialog = xbmcgui.Dialog()
+    dialog.textviewer('[B]Fusion Org Request[\B]', '[COLOR red]Este proyecto con el fin de compartir digan no al donativo obligado que solo roban contenido i regex para cobrar i no trabajar[/COLOR]')
+]]></expres>
+<page></page>
+</regex>
+</item> 
 
 
