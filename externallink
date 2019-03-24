@@ -1,7 +1,7 @@
 
 
 <item>
-<title>[B]Fusion Org Request[\B]</title>
+<title>[B]Fusion Org Request[/B]</title>
 <thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
 <link>$doregex[text]</link>
 <regex>
