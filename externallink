@@ -1,7 +1,7 @@
 
 
 <item>
-<title>"[B]Fusion Org Request[\B]"</title>
+<title>[B]Fusion Org Request[\B]</title>
 <thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
 <link>$doregex[text]</link>
 <regex>
@@ -10,7 +10,7 @@
 def GetLSProData(page_data,Cookie_Jar,m):
     import xbmcgui
     dialog = xbmcgui.Dialog()
-    dialog.textviewer('[B]Fusion Org Request[\B]', '[COLOR red]Este proyecto con el fin de compartir digan no al donativo obligado que solo roban contenido i regex para cobrar i no trabajar[/COLOR]')
+    dialog.textviewer('Fusion Org Request', '[COLOR red]Este proyecto con el fin de compartir digan no al donativo obligado que solo roban contenido i regex para cobrar i no trabajar[/COLOR]')
 ]]></expres>
 <page></page>
 </regex>
