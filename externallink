@@ -2,7 +2,7 @@
 
 <item>
 <title>[B]Fusion Org
- [COLOR green]Request[/B][/COLOR]</title>
+  [COLOR green]Request[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
 <link>$doregex[text]</link>
 <regex>
