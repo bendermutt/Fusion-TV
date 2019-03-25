@@ -4,7 +4,7 @@
 <title>[B][COLOR yellow]Aviso Importante!!!![/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/QaSQYmA.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
 <info>Fusion Request es un complemento mas del equipo Fusion Org que recopila la informacion compartida en la red atraves
-de varias serie de regex (Web Scrapper) </info>
+de varias series de regex (Web Scrapper) </info>
 <genre></genre>
 <link>$doregex[text]</link>
 <regex>
