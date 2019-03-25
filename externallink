@@ -1,9 +1,8 @@
 
 
 <item>
-<title>[B]Fusion Org
-  [COLOR green]Request[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
+<title>[B][COLOR yellow]Aviso Importante!!!![/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/QaSQYmA.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
 <info>Fusion Request es un complemento mas del equipo Fusion Org que recopila la informacion compartida en la red atraves
 de varias serie de regex (Web Scrapper) </info>
 <genre></genre>
@@ -20,4 +19,25 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 </item> 
 
+<item>
+<title>[B]Fusion Org
+  [COLOR green]Request[/B][/COLOR]</title>
+<thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+    import xbmcgui, xbmcaddon
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')  
+    line1 = "            [COLOR green]Fusion Org Request[/COLOR]"
+    line2 = "Produced by Fusion Team"
+    line3 = "Directed & Written by George Ramga & Bender Mutt"
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return 'http://bit.ly/FusionOrg'
+]]></expres>
+<page></page>
+</regex>
+</item>
 
