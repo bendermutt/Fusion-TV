@@ -4,6 +4,9 @@
 <title>[B]Fusion Org
   [COLOR green]Request[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
+<info>Fusion Request es un complemento mas del equipo Fusion Org que recopila la informacion compartida en la red atraves
+de varias serie de regex (Web Scrapper) </info>
+<genre></genre>
 <link>$doregex[text]</link>
 <regex>
 <name>text</name>
@@ -13,7 +16,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     dialog = xbmcgui.Dialog()
     dialog.textviewer('Fusion Org Request', '[COLOR red]Este proyecto es con el fin de compartir, Di No a la donacion obligatoria.  Black Ghost si vas a tomar los regex no obliges a los usuarios a pagar por algo que solo estas robando dejalo abierto para todos  [/COLOR]')
 ]]></expres>
-<page></page>
+<page>http://bit.ly/FusionOrg</page>
 </regex>
 </item> 
 
