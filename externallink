@@ -23,7 +23,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[B]Fusion Org
   [COLOR green]Request[/B][/COLOR]</title>
 <thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
-<link>$doregex[openDialog]</link>
+<link>http://Puto_el_que_lo_lea</link>
+<externallink>$doregex[openDialog]</externallink>
 <regex>
 <name>openDialog</name>
 <expres><![CDATA[#$pyFunction
