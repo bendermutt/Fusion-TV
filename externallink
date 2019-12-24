@@ -2,7 +2,7 @@
 
 <item>
 <title>[B][COLOR yellow]Aviso Importante!!!![/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/QaSQYmA.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
+<thumbnail>https://i.imgur.com/QaSQYmA.png</thumbnail><fanart>https://www.dropbox.com/s/2lo0de0shyqrnee/Merry%20Christmas%20Balls%20Glitter%204K%20Ultra%20HD%20Desktop%20Wallpaper.jpg?dl=1</fanart>
 <info>Fusion Request es un complemento mas del equipo Fusion Org que recopila la informacion compartida en la red atraves
 de varias series de regex (Web Scrapper) </info>
 <genre></genre>
@@ -22,7 +22,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[B]Fusion Org
   [COLOR green]Request[/B][/COLOR]</title>
-<thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail>https://i.imgur.com/lb7fMa3.jpg<fanart></fanart>
+<thumbnail>https://i.imgur.com/NbEO3gR.png</thumbnail><fanart>https://www.dropbox.com/s/2lo0de0shyqrnee/Merry%20Christmas%20Balls%20Glitter%204K%20Ultra%20HD%20Desktop%20Wallpaper.jpg?dl=1</fanart>
 <link>http://Puto_el_que_lo_lea</link>
 <externallink>$doregex[openDialog]</externallink>
 <regex>
